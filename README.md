@@ -1,3 +1,3 @@
 # first-project
 my first project in github
-Auther- Shristi Dhungel
+  Author- Shristi Dhungel
